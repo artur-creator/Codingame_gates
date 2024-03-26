@@ -1,0 +1,3 @@
+﻿  games.cpp
+C:\Users\tauru\source\repos\games\games.cpp(39): warning C4715: 'getOperation': not all control paths return a value
+  games.vcxproj -> C:\Users\tauru\source\repos\games\x64\Debug\games.exe
